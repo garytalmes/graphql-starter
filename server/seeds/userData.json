@@ -1,0 +1,19 @@
+[
+  {
+    "name": "Joe",
+    "username": "joey",
+    "occupation": "musician"
+  },
+
+  {
+    "name": "Mary",
+    "username": "maryt",
+    "occupation": "biologist"
+  },
+
+  {
+    "name": "Ethel",
+    "username": "eharmony",
+    "occupation": "tax collector"
+  }
+]
